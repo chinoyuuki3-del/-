@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "channel": "troll-shopping-live",
+  "generatedAt": "2026-07-27T17:00:58.974246+09:00",
+  "timezone": "Asia/Tokyo",
+  "daily": {
+    "date": "2026-07-27",
+    "headline": "📚 今日の勉強・計画特集",
+    "message": "今日は勉強・計画ツール特集。学校やプロジェクトに使えるソフトをまとめました。",
+    "featuredIds": [
+      "notes",
+      "todo",
+      "flashcards",
+      "quiz-maker",
+      "school-schedule",
+      "project-board"
+    ],
+    "deals": [
+      {
+        "id": "flashcards",
+        "price": 0,
+        "label": "勉強応援"
+      },
+      {
+        "id": "project-board",
+        "price": 40,
+        "label": "本日割引"
+      }
+    ]
+  },
+  "extraApps": [
+    {
+      "id": "live-daily-board",
+      "icon": "📡",
+      "name": "オンライン日替わり掲示板",
+      "category": "オンライン配信",
+      "kind": "board",
+      "price": 0,
+      "version": "1.0.0",
+      "badge": "LIVE",
+      "description": "オンライン配信のお知らせや今日の予定を端末内で整理できます。"
+    },
+    {
+      "id": "daily-challenge",
+      "icon": "🏆",
+      "name": "デイリーチャレンジ",
+      "category": "オンライン配信",
+      "kind": "game",
+      "price": 0,
+      "version": "1.0.0",
+      "badge": "DAILY",
+      "description": "毎日変わるおすすめゲームから今日の記録に挑戦します。"
+    }
+  ]
+}

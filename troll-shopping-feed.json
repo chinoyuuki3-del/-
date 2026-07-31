@@ -1,30 +1,30 @@
 {
   "schema": 1,
   "channel": "troll-shopping-live",
-  "generatedAt": "2026-07-31T01:37:24.941241+09:00",
+  "generatedAt": "2026-08-01T01:47:08.310701+09:00",
   "timezone": "Asia/Tokyo",
   "daily": {
-    "date": "2026-07-31",
-    "headline": "🌐 今日のFriend World特集",
-    "message": "Friend Worldデー。友達との交流や共同制作向けソフトを配信中です。",
+    "date": "2026-08-01",
+    "headline": "🎥 今日の配信・メディア特集",
+    "message": "配信・メディア特集。録音、撮影、配信準備を楽しめます。",
     "featuredIds": [
-      "friend-plaza",
-      "friend-house",
-      "map-pinboard",
-      "project-lab",
-      "event-planner",
-      "coin-wallet"
+      "voice-recorder",
+      "photo-booth",
+      "media-gallery",
+      "soundboard",
+      "podcast-planner",
+      "stream-studio"
     ],
     "deals": [
       {
-        "id": "friend-house",
+        "id": "voice-recorder",
         "price": 0,
-        "label": "Friend Day"
+        "label": "配信応援"
       },
       {
-        "id": "project-lab",
-        "price": 45,
-        "label": "共同制作割引"
+        "id": "photo-booth",
+        "price": 35,
+        "label": "本日割引"
       }
     ]
   },

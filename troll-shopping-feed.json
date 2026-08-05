@@ -1,30 +1,30 @@
 {
   "schema": 1,
   "channel": "troll-shopping-live",
-  "generatedAt": "2026-08-05T01:52:56.356168+09:00",
+  "generatedAt": "2026-08-06T01:43:29.803657+09:00",
   "timezone": "Asia/Tokyo",
   "daily": {
-    "date": "2026-08-05",
-    "headline": "🎮 今日のゲーム配信",
-    "message": "ゲームデー開催中。無料ゲームと日替わりチャレンジを配信しています。",
+    "date": "2026-08-06",
+    "headline": "🧰 今日の便利ツール特集",
+    "message": "便利ツール特集。毎日の作業を少し楽にするソフトを選びました。",
     "featuredIds": [
-      "troll-arcade",
-      "reaction-test",
-      "clicker",
-      "number-guess",
-      "rps",
-      "snake"
+      "calculator",
+      "timer",
+      "unit-converter",
+      "random-picker",
+      "dice",
+      "shopping-list"
     ],
     "deals": [
       {
-        "id": "reaction-test",
+        "id": "unit-converter",
         "price": 0,
-        "label": "ゲームデー"
+        "label": "便利ツール無料"
       },
       {
-        "id": "troll-arcade",
-        "price": 50,
-        "label": "特別価格"
+        "id": "timer",
+        "price": 20,
+        "label": "日替わりセール"
       }
     ]
   },

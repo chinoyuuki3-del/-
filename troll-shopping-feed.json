@@ -1,30 +1,30 @@
 {
   "schema": 1,
   "channel": "troll-shopping-live",
-  "generatedAt": "2026-08-11T01:01:06.842015+09:00",
+  "generatedAt": "2026-08-12T01:01:42.756447+09:00",
   "timezone": "Asia/Tokyo",
   "daily": {
-    "date": "2026-08-11",
-    "headline": "🎨 今日のクリエイティブ特集",
-    "message": "クリエイティブデー！絵・音・画像制作ソフトがおすすめです。",
+    "date": "2026-08-12",
+    "headline": "🎮 今日のゲーム配信",
+    "message": "ゲームデー開催中。無料ゲームと日替わりチャレンジを配信しています。",
     "featuredIds": [
-      "whiteboard",
-      "pixel-art",
-      "beat-pad",
-      "mini-piano",
-      "thumbnail-maker",
-      "meme-caption"
+      "troll-arcade",
+      "reaction-test",
+      "clicker",
+      "number-guess",
+      "rps",
+      "snake"
     ],
     "deals": [
       {
-        "id": "pixel-art",
-        "price": 20,
-        "label": "創作セール"
+        "id": "reaction-test",
+        "price": 0,
+        "label": "ゲームデー"
       },
       {
-        "id": "beat-pad",
-        "price": 0,
-        "label": "本日無料"
+        "id": "troll-arcade",
+        "price": 50,
+        "label": "特別価格"
       }
     ]
   },

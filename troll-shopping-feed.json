@@ -1,30 +1,30 @@
 {
   "schema": 1,
   "channel": "troll-shopping-live",
-  "generatedAt": "2026-08-22T00:35:01.843429+09:00",
+  "generatedAt": "2026-08-23T00:22:47.473352+09:00",
   "timezone": "Asia/Tokyo",
   "daily": {
-    "date": "2026-08-22",
-    "headline": "🎥 今日の配信・メディア特集",
-    "message": "配信・メディア特集。録音、撮影、配信準備を楽しめます。",
+    "date": "2026-08-23",
+    "headline": "📡 今日のオンライン通信特集",
+    "message": "オンライン通信ソフトを中心に配信中。友達とつながる機能を試してみよう！",
     "featuredIds": [
-      "voice-recorder",
-      "photo-booth",
-      "media-gallery",
-      "soundboard",
-      "podcast-planner",
-      "stream-studio"
+      "troll-social",
+      "friend-messenger",
+      "stream-studio",
+      "online-poll",
+      "friend-radar",
+      "online-board"
     ],
     "deals": [
       {
-        "id": "voice-recorder",
+        "id": "online-poll",
         "price": 0,
-        "label": "配信応援"
+        "label": "本日無料"
       },
       {
-        "id": "photo-booth",
-        "price": 35,
-        "label": "本日割引"
+        "id": "thumbnail-maker",
+        "price": 30,
+        "label": "日替わりセール"
       }
     ]
   },

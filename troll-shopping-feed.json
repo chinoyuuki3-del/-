@@ -1,30 +1,30 @@
 {
   "schema": 1,
   "channel": "troll-shopping-live",
-  "generatedAt": "2026-08-30T03:12:45.196682+09:00",
+  "generatedAt": "2026-08-31T03:28:41.666448+09:00",
   "timezone": "Asia/Tokyo",
   "daily": {
-    "date": "2026-08-30",
-    "headline": "📡 今日のオンライン通信特集",
-    "message": "オンライン通信ソフトを中心に配信中。友達とつながる機能を試してみよう！",
+    "date": "2026-08-31",
+    "headline": "📚 今日の勉強・計画特集",
+    "message": "今日は勉強・計画ツール特集。学校やプロジェクトに使えるソフトをまとめました。",
     "featuredIds": [
-      "troll-social",
-      "friend-messenger",
-      "stream-studio",
-      "online-poll",
-      "friend-radar",
-      "online-board"
+      "notes",
+      "todo",
+      "flashcards",
+      "quiz-maker",
+      "school-schedule",
+      "project-board"
     ],
     "deals": [
       {
-        "id": "online-poll",
+        "id": "flashcards",
         "price": 0,
-        "label": "本日無料"
+        "label": "勉強応援"
       },
       {
-        "id": "thumbnail-maker",
-        "price": 30,
-        "label": "日替わりセール"
+        "id": "project-board",
+        "price": 40,
+        "label": "本日割引"
       }
     ]
   },
